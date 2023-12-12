@@ -7,8 +7,7 @@
 
 
 ### URL of github repository ####
-https://github.com/EDS-Bioinformatics-Laboratory/[REPLACE-WITH-YOUR-REPOSITORY].git 
-
+https://github.com/EDS-Bioinformatics-Laboratory/GillespieExamples.git
  
 #### Any other information you want to include about the use of git with this specific repository ####
 
